@@ -20,4 +20,4 @@ AgriGenius is an AI-powered agricultural assistant designed to help farmers in I
 - Voice and SMS queries
 
 ## 🎯 Hackathon Submission
-This project was developed for [Hackathon Name] focusing on AI solutions for agriculture.
+This project was developed for [CAPITAL ONE] focusing on AI solutions for agriculture.
