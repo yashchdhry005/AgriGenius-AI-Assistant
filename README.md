@@ -80,6 +80,7 @@ This project was developed for [CAPITAL ONE] focusing on AI solutions for agricu
         ⚠️ Offline Mode Active (Last Synced: 2 hours ago)
     </div>
 
+    <<<<<<< SEARCH
     <!-- Video Recording Controls -->
     <div class="fixed bottom-4 right-4 z-50 bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-3 flex items-center space-x-3">
         <button id="recordBtn" class="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-lg flex items-center gap-2">
@@ -90,6 +91,8 @@ This project was developed for [CAPITAL ONE] focusing on AI solutions for agricu
         </button>
         <button id="demoBtn" class="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg">Demo Features</button>
     </div>
+=======
+>>>>>>> REPLACE
 
     <!-- Header with Language Selector -->
     <header class="bg-green-700 text-white p-4">
